@@ -1,7 +1,6 @@
 # 👨‍💻 Gabriel Oliveira - QA Engineer
 
 Bem-vindo ao meu portfólio de **Quality Assurance (QA)**.  
-Aqui você encontrará exemplos práticos de **automação de testes Web, API, Mobile, Performance e Segurança**, aplicando boas práticas como **Page Object Pattern, CI/CD e documentação ágil**.
 
 ---
 
@@ -54,3 +53,4 @@ Aqui você encontrará exemplos práticos de **automação de testes Web, API, M
 Meu objetivo é aplicar práticas de QA modernas para garantir qualidade, performance e segurança em sistemas Web e Mobile, além de evoluir continuamente em automação e testes de performance.
 
 ---
+
